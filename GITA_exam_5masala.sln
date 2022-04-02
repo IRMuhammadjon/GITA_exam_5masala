@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GITA_exam_5masala", "GITA_exam_5masala\GITA_exam_5masala.csproj", "{6A59346A-9571-43CC-99F2-DC020FD8468E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A59346A-9571-43CC-99F2-DC020FD8468E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A59346A-9571-43CC-99F2-DC020FD8468E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A59346A-9571-43CC-99F2-DC020FD8468E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A59346A-9571-43CC-99F2-DC020FD8468E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {451443E6-1606-4192-ABF3-DE56E612A669}
+	EndGlobalSection
+EndGlobal
